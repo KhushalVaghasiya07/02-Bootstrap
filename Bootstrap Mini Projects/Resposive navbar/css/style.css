@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+body {
+  /* color: #ffffff; */
+  
+  padding: 0px 0px;
+  font-family: 'BeVietnamPro-Medium';
+}
+
+.nav-link{
+    color: #ffffff;
+}
+.nav-item{
+  padding-right: 12px;
+}
+p{
+  margin-top: 50px;
+}
+
